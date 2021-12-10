@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying in Shanghai, Mainland China
 - 🌱 I’m currently learning Vue.js 
 
-- ⚡ Welcome to my website: https://leibaio.space
+- ⚡ Welcome to my blog: https://leibaio.space
 
 ✨ _good luck_ ✨
 
