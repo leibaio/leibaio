@@ -9,7 +9,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leibaio&layout=compact&theme=cobalt&show_icons=true)](https://github.com/leibaio/github-readme-stats) 
-
 [![leibaio's github stats](https://github-readme-stats.vercel.app/api?username=leibaio&theme=cobalt&show_icons=true&hide=stars)](https://github.com/leibaio/github-readme-stats)
 
 ### Pinned
