@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying in Shanghai, Mainland China
-- 🌱 I’m currently learning Vue.js 
-
+- 🌱 I’m currently learning  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>Vue.js
 - ⚡ Welcome to my blog: https://leibaio.space
 
 ✨ _good luck_ ✨
