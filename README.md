@@ -10,12 +10,16 @@
 
 ✨ _good luck_ ✨
 
-<img align="" height="157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leibaio&layout=compact&theme=cobalt&show_icons=true" />
-<img align="" height="157px" src="https://github-readme-stats.vercel.app/api?username=leibaio&theme=cobalt&show_icons=true&hide=stars" />
+<img align="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leibaio&layout=compact&theme=cobalt&show_icons=true" />
+<img align="" width="400" src="https://github-readme-stats.vercel.app/api?username=leibaio&theme=cobalt&show_icons=true&hide=stars" />
 
 ### Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leibaio&repo=supermall&theme=cobalt)](https://github.com/leibaio/supermall)
+
+### Spotify Recently Played
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a&count=3)
 
 <!--START_SECTION:waka-->
 
