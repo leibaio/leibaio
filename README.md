@@ -17,6 +17,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leibaio&repo=supermall&theme=cobalt)](https://github.com/leibaio/supermall)
 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a&count=3)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
