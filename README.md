@@ -7,17 +7,20 @@
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 - ⚡ Welcome to my blog: https://leibaio.space
+- :diamond_shape_with_a_dot_inside:  Skills: 
+
+     [![My Skills](https://skillicons.dev/icons?i=bootstrap,c,css,git,html,jquery,js,linux,md,mysql,mongodb,nginx,ps,php,pr,vite,vim,webpack&perline=6)](https://skillicons.dev)
 
 ✨ _good luck_ ✨
 
 <img align="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leibaio&layout=compact&theme=cobalt&show_icons=true" />
 <img align="" width="400" src="https://github-readme-stats.vercel.app/api?username=leibaio&theme=cobalt&show_icons=true&hide=stars" />
 
-### Pinned
+### Pinned :pushpin:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leibaio&repo=supermall&theme=cobalt)](https://github.com/leibaio/supermall)
 
-### Spotify Recently Played
+### Spotify Recently Played :musical_note:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a&count=3)
 
