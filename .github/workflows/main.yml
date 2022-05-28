@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka
 
 on:
   schedule:
@@ -6,8 +6,7 @@ on:
     - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-wakaTime:
     runs-on: ubuntu-latest
     steps:
       - uses: leibaio/leibaio@master
