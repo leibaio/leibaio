@@ -46,13 +46,14 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
+    name: Waka time
     steps:
       - uses: leibaio/leibaio@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
 <!--END_SECTION:waka-->
 
 <!--
