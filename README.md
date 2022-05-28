@@ -22,7 +22,7 @@
 
 ### Spotify Recently Played :musical_note:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a)
 
 <!--START_SECTION:waka-->
 
