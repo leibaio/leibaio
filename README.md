@@ -9,7 +9,7 @@
 - ⚡ Welcome to my blog: https://leibaio.space
 - :diamond_shape_with_a_dot_inside:  Skills: 
 
-     [![My Skills](https://skillicons.dev/icons?i=bootstrap,c,css,git,html,jquery,js,linux,md,mysql,mongodb,nginx,ps,php,pr,vite,vim,webpack&perline=6)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=bootstrap,c,css,git,html,jquery,js,linux,md,mysql,nginx,ps,php,pr,vite,vim,vue,webpack&perline=6)](https://skillicons.dev)
 
 ✨ _good luck_ ✨
 
