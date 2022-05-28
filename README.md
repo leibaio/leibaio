@@ -37,12 +37,8 @@
 <img align="" width="400" src="./leibaio.png" />
 
 ### Waka :watch:
+
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <!--
