@@ -37,6 +37,11 @@
 <img align="" width="400" src="./leibaio.png" />
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
