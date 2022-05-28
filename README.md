@@ -20,9 +20,14 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leibaio&repo=supermall&theme=cobalt)](https://github.com/leibaio/supermall)
 
+### Moon :moon:
+
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic)](https://moon-svg.minung.dev)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=ray)](https://moon-svg.minung.dev)
+
 ### Spotify Recently Played :musical_note:
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a&count=5)
 
 <!--START_SECTION:waka-->
 
