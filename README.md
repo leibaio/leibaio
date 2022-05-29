@@ -39,6 +39,13 @@
 ### Waka :watch:
 
 <!--START_SECTION:waka-->
+
+```text
+From: 21 May 2022 - To: 28 May 2022
+
+Other                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
