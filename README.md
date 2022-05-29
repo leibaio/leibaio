@@ -36,7 +36,7 @@
 
 <img align="" width="400" src="./leibaio.png" />
 
-### leibaio's contribution :octocat:
+<!-- ### leibaio's contribution :octocat:
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leibaio&theme=synthwave-84&custom_title=leibaio's%20contibution&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -50,7 +50,7 @@ From: 21 May 2022 - To: 28 May 2022
 Other                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> -->
 <!--
 **leibaio/leibaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently studying in Shanghai, Mainland China
