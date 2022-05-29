@@ -38,7 +38,6 @@
 
 ### Waka :watch:
 
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -48,6 +47,11 @@ Other                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
 <!--END_SECTION:waka-->
+
+### leibaio's contribution :octocat:
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leibaio&theme=synthwave-84&custom_title=leibaio's%20contibution&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **leibaio/leibaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently studying in Shanghai, Mainland China
