@@ -32,16 +32,16 @@
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a&count=5)
 
+### leibaio's contributions :milky_way:
+
+<img align="" width="400" src="https://activity-graph.herokuapp.com/graph?username=leibaio&theme=xcode&custom_title=leibaio's%20contibutiosn&radius=5" />
+
 ### Name :scorpius:
 
 <img align="" width="400" src="./leibaio.png" />
 
-<!-- ### leibaio's contribution :octocat:
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leibaio&theme=synthwave-84&custom_title=leibaio's%20contibution&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Waka :watch:
--->
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leibaio&theme=synthwave-84&custom_title=leibaio's%20contibutiosn&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- ### Waka :watch: -->
 <!--
 **leibaio/leibaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently studying in Shanghai, Mainland China
