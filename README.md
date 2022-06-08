@@ -1,5 +1,6 @@
 <img align="" width="400" src="./github-header-image.png" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Joan&duration=4000&height=25&lines=hey%2C+welcome;++++++++++++leibaio)](https://git.io/typing-svg)
 ### Hi there 👋
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leibaio.visitor-badge&left_color=blue&right_color=pink&left_text=Hello%20Visitors)
 
