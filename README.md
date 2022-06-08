@@ -1,7 +1,7 @@
 <img align="" width="400" src="./github-header-image.png" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Type+tester&duration=4000&height=25&lines=Hi%2C+Welcome;leibaio;stay+hungry+stay+foolish)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=console.log('Hi%2C+Welcome');%E7%94%9F%E6%B4%BB%E7%8E%89%E5%BF%AB%EF%BC%8C%E9%98%96%E5%AE%B6%E6%AC%A2%E6%B4%9B;leibaio;stay+hungry+stay+foolish)](https://git.io/typing-svg)
 ### Hi there 👋
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leibaio.visitor-badge&left_color=blue&right_color=pink&left_text=Hello%20Visitors)
 
