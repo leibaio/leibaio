@@ -32,6 +32,10 @@
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=5w6zl0iqxr76tpzhqj5qv056a&count=5)
 
+### Snake :v:
+
+<img align="" width="400" src="https://raw.githubusercontent.com/leibaio/leibaio/master/assets/github-contribution-grid-snake.svg" />
+
 ### leibaio's contributions :milky_way:
 
 <img align="" width="400" src="https://activity-graph.herokuapp.com/graph?username=leibaio&theme=xcode&custom_title=leibaio's%20contibutiosn&radius=5" />
