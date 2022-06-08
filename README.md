@@ -36,6 +36,10 @@
 
 <img align="" width="400" src="https://raw.githubusercontent.com/leibaio/leibaio/master/assets/github-contribution-grid-snake.svg" />
 
+### Trophy :trophy:
+
+<img align="" width="400" src="https://github-profile-trophy.vercel.app/?username=leibaio&theme=dracula" />
+
 ### leibaio's contributions :milky_way:
 
 <img align="" width="400" src="https://activity-graph.herokuapp.com/graph?username=leibaio&theme=xcode&custom_title=leibaio's%20contibutiosn&radius=5" />
@@ -43,6 +47,7 @@
 ### Name :scorpius:
 
 <img align="" width="400" src="./leibaio.png" />
+
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leibaio&theme=synthwave-84&custom_title=leibaio's%20contibutiosn&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- ### Waka :watch: -->
