@@ -10,7 +10,7 @@
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-- ⚡ Welcome to my blog: https://leibaio.space
+- ⚡ Welcome to my blog: https://leibaio.github.io
 - :diamond_shape_with_a_dot_inside:  Skills: 
 
      [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,css,figma,git,html,jquery,js,latex,linux,md,mysql,nginx,ps,py,php,react,tailwind,ts,vite,vim,vue,webpack&perline=6)](https://skillicons.dev)
