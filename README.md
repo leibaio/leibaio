@@ -20,9 +20,9 @@
 <img align="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leibaio&layout=compact&theme=cobalt&show_icons=true" />
 <img align="" width="400" src="https://github-readme-stats.vercel.app/api?username=leibaio&theme=cobalt&show_icons=true&hide=stars" />
 
-### Pinned :pushpin:
+<!-- ### Pinned :pushpin:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leibaio&repo=supermall&theme=cobalt)](https://github.com/leibaio/supermall)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leibaio&repo=supermall&theme=cobalt)](https://github.com/leibaio/supermall) -->
 
 ### Moon :moon:
 
