@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=console.log('Hi%2C+Welcome');%E7%94%9F%E6%B4%BB%E7%8E%89%E5%BF%AB%EF%BC%8C%E9%98%96%E5%AE%B6%E6%AC%A2%E6%B4%9B;leibaio;stay+hungry+stay+foolish)](https://git.io/typing-svg)
 ### Hi there 👋
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leibaio.visitor-badge&left_color=blue&right_color=pink&left_text=Hello%20Visitors) -->
-- 🔭 I’m currently studying in Shanghai, Mainland China
+- 🔭 I’m currently working in Shanghai, Mainland China
 - 🌱 I’m currently learning  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
