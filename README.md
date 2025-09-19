@@ -13,7 +13,7 @@
 - ⚡ Welcome to my blog: https://leibaio.github.io
 - :diamond_shape_with_a_dot_inside:  Skills:
 
-     [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,css,figma,git,html,jquery,js,latex,linux,md,mysql,nginx,ps,py,php,react,tailwind,ts,vite,vim,vue,webpack&perline=6)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=bash,css,git,html,java,js,latex,linux,md,mysql,nextjs,nginx,pinia,ps,py,react,redis,tailwind,ts,vite,vim,vue,webpack&perline=6)](https://skillicons.dev)
 
 ✨ _good luck_ ✨
 
